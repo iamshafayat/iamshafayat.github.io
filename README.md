@@ -2,7 +2,7 @@
 
 This is my personal portfolio showcasing my work in cybersecurity, ethical hacking, bug bounty achievements, experience, skills, and contact information.
 
-## 🔗 **[Visit My Portfolio »](https://iamshafayat.github.io/Portfolio)**
+## 🔗 **[Visit My Portfolio »](https://iamshafayat.github.io/)**
 
 ## Contact
 - LinkedIn: https://linkedin.com/in/iamshafayat
