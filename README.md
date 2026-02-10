@@ -1,6 +1,6 @@
 # Shafayat Ahmed Alif — Portfolio
 
-This is my personal portfolio showcasing my work in cybersecurity, ethical hacking, bug bounty achievements, experience, skills, and contact information.
+This is my personal portfolio showcasing my work in cybersecurity, penetration testing, bug bounty achievements, experience, skills, and contact information.
 
 ## 🔗 **[Visit My Portfolio »](https://iamshafayat.github.io/)**
 
@@ -9,4 +9,4 @@ This is my personal portfolio showcasing my work in cybersecurity, ethical hacki
 - GitHub: https://github.com/iamshafayat
 
 ---
-© 2025 Shafayat Ahmed Alif. All rights reserved.
+© 2026 Shafayat Ahmed Alif. All rights reserved.
